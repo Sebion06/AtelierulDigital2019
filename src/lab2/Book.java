@@ -1,0 +1,30 @@
+package lab2;
+
+public class Book {
+    private String name;
+    public int price;
+
+    public Book(int price) {
+        this.price = price;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String Aname) {
+        this.name = name;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
+    public void rentalCost(int numDays) {
+        price = numDays * 10;
+    }
+}
