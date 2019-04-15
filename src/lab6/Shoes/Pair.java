@@ -9,6 +9,14 @@ public class Pair<T> {
         this.second = second;
     }
 
+    @Override
+    public String toString() {
+        return "Pair{" +
+                "first=" + first +
+                ", second=" + second +
+                '}';
+    }
+
     public T getFirst() {
         return first;
     }
