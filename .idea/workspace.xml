@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab9/Lambda/Lambda1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+            <state relative-caret-position="102">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -325,12 +325,12 @@
       <workItem from="1555948167341" duration="5578000" />
       <workItem from="1557157233045" duration="5457000" />
       <workItem from="1557762466943" duration="69000" />
-      <workItem from="1557763115627" duration="4046000" />
+      <workItem from="1557763115627" duration="5175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57681000" />
+    <option name="totallyTimeSpent" value="58810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,16 +353,16 @@
       <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.2193646" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5461422" visible="true" weight="0.2749591" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5461422" weight="0.2749591" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49621785" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" x="89" y="115" width="749" height="501" id="Terminal" order="10" sideWeight="0.48335856" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.45385778" side_tool="true" visible="true" weight="0.2749591" />
+      <window_info active="true" anchor="bottom" x="89" y="115" width="749" height="501" id="Terminal" order="10" sideWeight="0.48260212" visible="true" weight="0.5368249" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5173979" side_tool="true" visible="true" weight="0.5368249" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49848714" weight="0.26841244" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -765,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab9/Lambda/Lambda1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+        <state relative-caret-position="102">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
