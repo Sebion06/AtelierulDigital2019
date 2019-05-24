@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1dabcdf-72e9-4b82-a74a-38e4d5da29af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab9/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz/Design_Patterns/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Quiz/Generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Quiz/Generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz/Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz/Generics/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,13 +33,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab9/Lambda/Lambda1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="289">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Quiz/Generics/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +99,6 @@
         <option value="$PROJECT_DIR$/src/lab5/Main.java" />
         <option value="$PROJECT_DIR$/src/lab5/IOOperations.java" />
         <option value="$PROJECT_DIR$/src/Challenges/Quiz/Generics/Main.java" />
-        <option value="$PROJECT_DIR$/src/Quiz/Generics/Main.java" />
         <option value="$PROJECT_DIR$/src/lab6/Currency.java" />
         <option value="$PROJECT_DIR$/src/lab6/RON.java" />
         <option value="$PROJECT_DIR$/src/lab6/USD.java" />
@@ -110,14 +125,14 @@
         <option value="$PROJECT_DIR$/src/lab9/ConsumerPack/Consumer1.java" />
         <option value="$PROJECT_DIR$/src/lab9/Predicate/Predicate1.java" />
         <option value="$PROJECT_DIR$/src/lab9/Lambda/Lambda1.java" />
+        <option value="$PROJECT_DIR$/src/Quiz/Generics/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-519" />
-    <option name="y" value="-17" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -144,21 +159,7 @@
               <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab9" type="462c0819:PsiDirectoryNode" />
-              <item name="ConsumerPack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab9" type="462c0819:PsiDirectoryNode" />
-              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Quiz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lambda1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Consumer1" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab9.ConsumerPack.Consumer1" />
       <module name="AtelierulDigital2019" />
@@ -243,6 +244,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.Generics.Main" />
+      <module name="AtelierulDigital2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Predicate1" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab9.Predicate.Predicate1" />
       <module name="AtelierulDigital2019" />
@@ -262,19 +276,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz.Basics.basics" />
-      <module name="AtelierulDigital2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Quiz.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lab" type="Application" factoryName="Application" editBeforeRun="true">
       <option name="MAIN_CLASS_NAME" value="lab7.List.Leader" />
       <module name="AtelierulDigital2019" />
@@ -284,19 +285,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.lab" />
-      <item itemvalue="Application.basics" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Consumer1" />
       <item itemvalue="Application.Predicate1" />
       <item itemvalue="Application.Lambda1" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lambda1" />
         <item itemvalue="Application.Predicate1" />
         <item itemvalue="Application.Consumer1" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.basics" />
       </list>
     </recent_temporary>
   </component>
@@ -325,12 +326,15 @@
       <workItem from="1555948167341" duration="5578000" />
       <workItem from="1557157233045" duration="5457000" />
       <workItem from="1557762466943" duration="69000" />
-      <workItem from="1557763115627" duration="5175000" />
+      <workItem from="1557763115627" duration="5736000" />
+      <workItem from="1558287894290" duration="6371000" />
+      <workItem from="1558383377234" duration="576000" />
+      <workItem from="1558701571803" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58810000" />
+    <option name="totallyTimeSpent" value="66667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,9 +346,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16414523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.23233908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +357,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.2193646" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5461422" weight="0.2749591" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5431711" weight="0.2740864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,9 +365,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49621785" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" x="89" y="115" width="749" height="501" id="Terminal" order="10" sideWeight="0.48260212" visible="true" weight="0.5368249" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5173979" side_tool="true" visible="true" weight="0.5368249" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49848714" weight="0.26841244" />
+      <window_info anchor="bottom" x="89" y="115" width="749" height="501" id="Terminal" order="10" sideWeight="0.48037678" weight="0.2857143" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.4568289" side_tool="true" visible="true" weight="0.2740864" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48508635" weight="0.26744187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -570,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quiz/Generics/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab6/Currency/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -765,10 +762,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab9/Lambda/Lambda1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="289">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quiz/Generics/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#266#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
           </folding>
         </state>
       </provider>

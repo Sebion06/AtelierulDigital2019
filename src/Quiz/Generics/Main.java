@@ -1,10 +1,21 @@
 package Quiz.Generics;
 
+import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+
+import java.util.Set;
+import java.util.Stack;
+
 public class Main {
     public static void main(String[] args) {
-        //B b = new B90;
-        //C c =b.process(new C());
-        //B<C> b2=new B<C>90)();
-        //C c2 = b2.process(new C());
+        GenericsErasure<Integer> integerObject= new GenericsErasure<Integer>(12);
+        System.out.println(integerObject.getClass().getName());
+    }
+
+}
+class GenericsErasure<T>{
+    T obj;
+    GenericsErasure(T obj)
+    {
+        this.obj=obj;
     }
 }
